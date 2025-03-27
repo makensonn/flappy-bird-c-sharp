@@ -40,7 +40,7 @@ git clone https://github.com/makensonn/flappy-bird-c-sharp.git
 ## How to Play
 - Use the spacebar to make the bird jump.
 - Navigate through the pipes without hitting them.
-- Each successful pass through pipes adds to your score.\
+- Each successful pass through pipes adds to your score.
 - Try to get the highest score possible!
 
 ## Contributing
