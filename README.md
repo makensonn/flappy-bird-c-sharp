@@ -25,4 +25,33 @@ To run the Flappy Bird game, make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/makensonn/flappy-bird-c-sharp.git
+git clone https://github.com/makensonn/flappy-bird-c-sharp.git 
+```
+
+## Build and Run the Game
+- Open the project in Visual Studio or any compatible IDE.
+- Build the solution (Ctrl + Shift + B).
+- Press F5 or the "Start" button to run the game.
+
+## Controls
+- Spacebar: Make the bird jump.
+- Escape: Pause the game.
+
+## How to Play
+- Use the spacebar to make the bird jump.
+- Navigate through the pipes without hitting them.
+- Each successful pass through pipes adds to your score.\
+- Try to get the highest score possible!
+
+## Contributing
+Feel free to fork this repository and submit issues or pull requests for enhancements, bug fixes, or features.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Thanks to the creators of the original Flappy Bird game for inspiring this project.
+
+Special thanks to all the open-source libraries and tools that made this project possible.
+
+
